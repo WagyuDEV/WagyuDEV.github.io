@@ -1,8 +1,36 @@
-* {
+body {
 	margin: 0;
-	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: beige;
 }
 
-body {
-	background-color: beige;
+.topnav {
+	overflow: hidden;
+}
+
+.topnav a {
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	border: 2px dashed brown;
+	margin: 5px;
+}
+
+.topnav a:hover {
+	border: 2px solid brown;
+	color: black;
+}
+
+.topnav a.active {
+	border: 3px solid brown;
+}
+
+#home {
+	float: left;
+}
+
+.other {
+	float: right;
 }
