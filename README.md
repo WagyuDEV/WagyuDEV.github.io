@@ -1,1 +1,1 @@
-# WagyuDEV.github.io
+# [WagyuDEV.github.io](https://wagyudev.github.io/)
